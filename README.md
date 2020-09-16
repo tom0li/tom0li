@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Cloud security.
 - :camera: [My blog](https://tom0li.github.io/). Record something interesting.
 - :pencil2: Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
-- 📫 How to reach me: tom0li#qq.com
+- 📫 How to reach me: tom0y1@protonmail.com
 
 ### 关于我
 
@@ -12,5 +12,5 @@
 - 我的博客: [My blog](https://tom0li.github.io/) 记录一些生活上的所思和探索、一些网络安全相关内容。
 - 收藏的文档: [documents](https://github.com/tom0li/collection-document) 收集一些优质安全博客文章，美好生活指南等。
 - 知识星球: [红蓝对抗星球](https://t.zsxq.com/JuzZjAQ) 分享内容不设限。
-- 联系我: tom0li#qq.com
+- 联系我: tom0y1@protonmail.com
 
