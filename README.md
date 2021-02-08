@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Cloud security.
 - 📷 [My blog](https://tom0li.github.io/). Record something interesting.
 - ✏️ Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
-- 🍎 [Document the nature of things](https://github.com/tom0li/awesome-essence), principles, oddities and safety related things. There may be some history, medicine, life and health, physics, mathematics, finance, workplace, art, psychology, aphorisms, etc.
+- 🍎 [Document the nature of things](https://github.com/tom0li/awesome-essence), Something about the nature of things, principles, oddities and security-related stuff. Maybe some history, medicine, physics, math, finance, workplace, art, psychology, social science, aphorisms, etc.
 - 📫 How to reach me: tom0y1@protonmail.com
 
 # 关于我
