@@ -18,7 +18,8 @@
 
 --- 
 
-# :sparkles: My followers
+# My followers
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
