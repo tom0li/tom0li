@@ -18,7 +18,7 @@
 
 --- 
 
-# My followers
+# Part of my followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
