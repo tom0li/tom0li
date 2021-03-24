@@ -79,12 +79,21 @@
       <a href="https://github.com/swdreams">Senior software architect & engineer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/0nise">
+        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
+      </a>
+      <br />
+      <a href="https://github.com/0nise">r4v3zn</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lifa123">
         <img src="https://avatars2.githubusercontent.com/u/16981248" width="70px;" alt="lifa123"/>
       </a>
       <br />
       <a href="https://github.com/lifa123">muuk</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zu1k">
         <img src="https://avatars2.githubusercontent.com/u/42370281" width="70px;" alt="zu1k"/>
@@ -92,21 +101,12 @@
       <br />
       <a href="https://github.com/zu1k">zu1k</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tengzhangchao">
         <img src="https://avatars2.githubusercontent.com/u/16537831" width="70px;" alt="tengzhangchao"/>
       </a>
       <br />
       <a href="https://github.com/tengzhangchao">nMask</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0nise">
-        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
-      </a>
-      <br />
-      <a href="https://github.com/0nise">r4v3zn</a>
     </td>
     <td align="center">
       <a href="https://github.com/virusdefender">
