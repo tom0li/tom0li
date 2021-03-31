@@ -72,18 +72,18 @@
       <a href="https://github.com/Lz1y">Lz1y</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swdreams">
-        <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/0nise">
         <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
       </a>
       <br />
       <a href="https://github.com/0nise">r4v3zn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swdreams">
+        <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
     </td>
     <td align="center">
       <a href="https://github.com/lifa123">
