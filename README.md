@@ -158,11 +158,11 @@
       <a href="https://github.com/heiye007">heiye007</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shellsec">
-        <img src="https://avatars2.githubusercontent.com/u/26370074" width="70px;" alt="shellsec"/>
+      <a href="https://github.com/theLSA">
+        <img src="https://avatars2.githubusercontent.com/u/28248956" width="70px;" alt="theLSA"/>
       </a>
       <br />
-      <a href="https://github.com/shellsec">网络安全军火库</a>
+      <a href="https://github.com/theLSA">LSA</a>
     </td>
   </tr>
 </table>
