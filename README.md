@@ -151,18 +151,18 @@
       <a href="https://github.com/jm33-m0">jm33-ng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/heiye007">
-        <img src="https://avatars2.githubusercontent.com/u/31949347" width="70px;" alt="heiye007"/>
-      </a>
-      <br />
-      <a href="https://github.com/heiye007">heiye007</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/theLSA">
         <img src="https://avatars2.githubusercontent.com/u/28248956" width="70px;" alt="theLSA"/>
       </a>
       <br />
       <a href="https://github.com/theLSA">LSA</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/heiye007">
+        <img src="https://avatars2.githubusercontent.com/u/31949347" width="70px;" alt="heiye007"/>
+      </a>
+      <br />
+      <a href="https://github.com/heiye007">heiye007</a>
     </td>
   </tr>
 </table>
