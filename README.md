@@ -130,6 +130,13 @@
       <a href="https://github.com/al0ne">al0ne</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JBris">
         <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
       </a>
@@ -156,13 +163,6 @@
       </a>
       <br />
       <a href="https://github.com/theLSA">LSA</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/heiye007">
-        <img src="https://avatars2.githubusercontent.com/u/31949347" width="70px;" alt="heiye007"/>
-      </a>
-      <br />
-      <a href="https://github.com/heiye007">heiye007</a>
     </td>
   </tr>
 </table>
