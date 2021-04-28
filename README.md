@@ -158,11 +158,11 @@
       <a href="https://github.com/jm33-m0">jm33-ng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/theLSA">
-        <img src="https://avatars2.githubusercontent.com/u/28248956" width="70px;" alt="theLSA"/>
+      <a href="https://github.com/r0eXpeR">
+        <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
       <br />
-      <a href="https://github.com/theLSA">LSA</a>
+      <a href="https://github.com/r0eXpeR">r0eXpeR</a>
     </td>
   </tr>
 </table>
