@@ -1,7 +1,7 @@
 ### About Me 👋
 
 - 🔭 I’am previously worked at Alibaba Cloud
-- 🌱 I’m currently learning Cloud security.
+- 🌱 I’m currently learning Rules.
 - 📷 [My blog](https://tom0li.github.io/). Record something interesting.
 - ✏️ Record some of the [documents](https://github.com/tom0li/collection-document) viewed.
 - 🍎 [Document the nature of things](https://github.com/tom0li/awesome-essence), This warehouse shows the nature of things, principles, oddities and security related things. Some formal sciences (e.g. mathematics), which study abstract concepts; natural sciences (e.g. biology, physics, medicine), which study nature in its broadest sense; and social sciences (e.g. economics, psychology, sociology), which study individuals and society.
