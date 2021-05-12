@@ -136,18 +136,18 @@
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Wh0ale">
-        <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
-      </a>
-      <br />
-      <a href="https://github.com/Wh0ale">Wh0ale</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/JBris">
         <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
       </a>
       <br />
       <a href="https://github.com/JBris">JBris</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Wh0ale">
+        <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
+      </a>
+      <br />
+      <a href="https://github.com/Wh0ale">Wh0ale</a>
     </td>
     <td align="center">
       <a href="https://github.com/jm33-m0">
