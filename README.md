@@ -85,20 +85,20 @@
       <a href="https://github.com/lifa123">muuk</a>
     </td>
     <td align="center">
-      <a href="https://github.com/swdreams">
-        <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/zu1k">
         <img src="https://avatars2.githubusercontent.com/u/42370281" width="70px;" alt="zu1k"/>
       </a>
       <br />
       <a href="https://github.com/zu1k">zu1k</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/swdreams">
+        <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
     </td>
     <td align="center">
       <a href="https://github.com/tengzhangchao">
