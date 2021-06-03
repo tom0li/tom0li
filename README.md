@@ -150,18 +150,18 @@
       <a href="https://github.com/JBris">JBris</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jm33-m0">
-        <img src="https://avatars2.githubusercontent.com/u/10167884" width="70px;" alt="jm33-m0"/>
-      </a>
-      <br />
-      <a href="https://github.com/jm33-m0">jm33-ng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r0eXpeR">
         <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
       <br />
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jm33-m0">
+        <img src="https://avatars2.githubusercontent.com/u/10167884" width="70px;" alt="jm33-m0"/>
+      </a>
+      <br />
+      <a href="https://github.com/jm33-m0">jm33-ng</a>
     </td>
   </tr>
 </table>
