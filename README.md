@@ -129,18 +129,18 @@
       <a href="https://github.com/scanfsec">scanf</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Wh0ale">
-        <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
-      </a>
-      <br />
-      <a href="https://github.com/Wh0ale">Wh0ale</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sbilly">
         <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
       </a>
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Wh0ale">
+        <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
+      </a>
+      <br />
+      <a href="https://github.com/Wh0ale">Wh0ale</a>
     </td>
     <td align="center">
       <a href="https://github.com/JBris">
