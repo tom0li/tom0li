@@ -143,18 +143,18 @@
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JBris">
-        <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
-      </a>
-      <br />
-      <a href="https://github.com/JBris">JBris</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r0eXpeR">
         <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
       <br />
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JBris">
+        <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
+      </a>
+      <br />
+      <a href="https://github.com/JBris">JBris</a>
     </td>
     <td align="center">
       <a href="https://github.com/jm33-m0">
