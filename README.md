@@ -136,18 +136,18 @@
       <a href="https://github.com/scanfsec">scanf</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r0eXpeR">
         <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
       <br />
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
       <a href="https://github.com/JBris">
