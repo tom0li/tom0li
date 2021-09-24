@@ -108,18 +108,18 @@
       <a href="https://github.com/al0ne">al0ne</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kinds1123">
-        <img src="https://avatars2.githubusercontent.com/u/16537831" width="70px;" alt="kinds1123"/>
-      </a>
-      <br />
-      <a href="https://github.com/kinds1123">Kinds</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/virusdefender">
         <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
       </a>
       <br />
       <a href="https://github.com/virusdefender">LiYang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kinds1123">
+        <img src="https://avatars2.githubusercontent.com/u/16537831" width="70px;" alt="kinds1123"/>
+      </a>
+      <br />
+      <a href="https://github.com/kinds1123">Kinds</a>
     </td>
     <td align="center">
       <a href="https://github.com/Wh0ale">
@@ -157,11 +157,11 @@
       <a href="https://github.com/JBris">JBris</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jm33-m0">
-        <img src="https://avatars2.githubusercontent.com/u/10167884" width="70px;" alt="jm33-m0"/>
+      <a href="https://github.com/rc-chuah">
+        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
       </a>
       <br />
-      <a href="https://github.com/jm33-m0">jm33-ng</a>
+      <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
   </tr>
 </table>
