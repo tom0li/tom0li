@@ -157,11 +157,11 @@
       <a href="https://github.com/JBris">JBris</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rc-chuah">
-        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
+      <a href="https://github.com/jm33-m0">
+        <img src="https://avatars2.githubusercontent.com/u/10167884" width="70px;" alt="jm33-m0"/>
       </a>
       <br />
-      <a href="https://github.com/rc-chuah">RC Chuah</a>
+      <a href="https://github.com/jm33-m0">jm33-ng</a>
     </td>
   </tr>
 </table>
