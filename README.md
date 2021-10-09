@@ -150,18 +150,18 @@
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JBris">
-        <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
-      </a>
-      <br />
-      <a href="https://github.com/JBris">JBris</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
       </a>
       <br />
       <a href="https://github.com/rc-chuah">RC Chuah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JBris">
+        <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
+      </a>
+      <br />
+      <a href="https://github.com/JBris">JBris</a>
     </td>
   </tr>
 </table>
