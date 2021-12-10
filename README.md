@@ -108,13 +108,6 @@
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/virusdefender">
-        <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
-      </a>
-      <br />
-      <a href="https://github.com/virusdefender">LiYang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/al0ne">
         <img src="https://avatars2.githubusercontent.com/u/13449320" width="70px;" alt="al0ne"/>
       </a>
@@ -122,11 +115,11 @@
       <a href="https://github.com/al0ne">al0ne</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Wh0ale">
-        <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
+      <a href="https://github.com/virusdefender">
+        <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
       </a>
       <br />
-      <a href="https://github.com/Wh0ale">Wh0ale</a>
+      <a href="https://github.com/virusdefender">LiYang</a>
     </td>
     <td align="center">
       <a href="https://github.com/rc-chuah">
@@ -134,6 +127,13 @@
       </a>
       <br />
       <a href="https://github.com/rc-chuah">RC Chuah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Wh0ale">
+        <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
+      </a>
+      <br />
+      <a href="https://github.com/Wh0ale">Wh0ale</a>
     </td>
     <td align="center">
       <a href="https://github.com/kinds1123">
