@@ -36,18 +36,18 @@
       <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
-      <a href="https://github.com/killvxk">
-        <img src="https://avatars2.githubusercontent.com/u/309424" width="70px;" alt="killvxk"/>
-      </a>
-      <br />
-      <a href="https://github.com/killvxk">killvxk</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zer0yu">
         <img src="https://avatars2.githubusercontent.com/u/16551733" width="70px;" alt="zer0yu"/>
       </a>
       <br />
       <a href="https://github.com/zer0yu">z3r0yu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/killvxk">
+        <img src="https://avatars2.githubusercontent.com/u/309424" width="70px;" alt="killvxk"/>
+      </a>
+      <br />
+      <a href="https://github.com/killvxk">killvxk</a>
     </td>
     <td align="center">
       <a href="https://github.com/zu1k">
@@ -122,18 +122,18 @@
       <a href="https://github.com/virusdefender">LiYang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rc-chuah">
-        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
-      </a>
-      <br />
-      <a href="https://github.com/rc-chuah">RC Chuah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Wh0ale">
         <img src="https://avatars2.githubusercontent.com/u/44937351" width="70px;" alt="Wh0ale"/>
       </a>
       <br />
       <a href="https://github.com/Wh0ale">Wh0ale</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rc-chuah">
+        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
+      </a>
+      <br />
+      <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
       <a href="https://github.com/kinds1123">
