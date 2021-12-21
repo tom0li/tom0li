@@ -157,11 +157,11 @@
       <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JBris">
-        <img src="https://avatars2.githubusercontent.com/u/16170973" width="70px;" alt="JBris"/>
+      <a href="https://github.com/safe6Sec">
+        <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
-      <a href="https://github.com/JBris">JBris</a>
+      <a href="https://github.com/safe6Sec">safe6Sec</a>
     </td>
   </tr>
 </table>
