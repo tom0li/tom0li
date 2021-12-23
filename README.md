@@ -85,14 +85,21 @@
       <a href="https://github.com/0nise">r4v3zn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/silvesterwali">
+        <img src="https://avatars2.githubusercontent.com/u/40487188" width="70px;" alt="silvesterwali"/>
+      </a>
+      <br />
+      <a href="https://github.com/silvesterwali">silvesterwali</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/swdreams">
         <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
       </a>
       <br />
       <a href="https://github.com/swdreams">Senior software architect & engineer</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lifa123">
         <img src="https://avatars2.githubusercontent.com/u/16981248" width="70px;" alt="lifa123"/>
@@ -155,13 +162,6 @@
       </a>
       <br />
       <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/safe6Sec">
-        <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
-      </a>
-      <br />
-      <a href="https://github.com/safe6Sec">safe6Sec</a>
     </td>
   </tr>
 </table>
