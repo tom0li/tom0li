@@ -115,18 +115,18 @@
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/al0ne">
-        <img src="https://avatars2.githubusercontent.com/u/13449320" width="70px;" alt="al0ne"/>
-      </a>
-      <br />
-      <a href="https://github.com/al0ne">al0ne</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
       </a>
       <br />
       <a href="https://github.com/rc-chuah">RC Chuah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/al0ne">
+        <img src="https://avatars2.githubusercontent.com/u/13449320" width="70px;" alt="al0ne"/>
+      </a>
+      <br />
+      <a href="https://github.com/al0ne">al0ne</a>
     </td>
     <td align="center">
       <a href="https://github.com/virusdefender">
