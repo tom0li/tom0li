@@ -143,18 +143,18 @@
       <a href="https://github.com/Wh0ale">Wh0ale</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kinds1123">
-        <img src="https://avatars2.githubusercontent.com/u/16537831" width="70px;" alt="kinds1123"/>
-      </a>
-      <br />
-      <a href="https://github.com/kinds1123">Kinds</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/safe6Sec">
         <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6Sec</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kinds1123">
+        <img src="https://avatars2.githubusercontent.com/u/16537831" width="70px;" alt="kinds1123"/>
+      </a>
+      <br />
+      <a href="https://github.com/kinds1123">Kinds</a>
     </td>
     <td align="center">
       <a href="https://github.com/scanfsec">
