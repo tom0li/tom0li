@@ -64,18 +64,18 @@
       <a href="https://github.com/ourren">ourren</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Lz1y">
-        <img src="https://avatars2.githubusercontent.com/u/23468993" width="70px;" alt="Lz1y"/>
-      </a>
-      <br />
-      <a href="https://github.com/Lz1y">Lz1y</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/silvesterwali">
         <img src="https://avatars2.githubusercontent.com/u/40487188" width="70px;" alt="silvesterwali"/>
       </a>
       <br />
       <a href="https://github.com/silvesterwali">silvesterwali</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Lz1y">
+        <img src="https://avatars2.githubusercontent.com/u/23468993" width="70px;" alt="Lz1y"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lz1y">Lz1y</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dm2333">
