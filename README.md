@@ -157,11 +157,11 @@
       <a href="https://github.com/kinds1123">Kinds</a>
     </td>
     <td align="center">
-      <a href="https://github.com/scanfsec">
-        <img src="https://avatars2.githubusercontent.com/u/8190138" width="70px;" alt="scanfsec"/>
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
       </a>
       <br />
-      <a href="https://github.com/scanfsec">scanf</a>
+      <a href="https://github.com/sbilly">sbilly</a>
     </td>
   </tr>
 </table>
