@@ -136,6 +136,13 @@
       <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
+      <a href="https://github.com/safe6Sec">
+        <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
+      </a>
+      <br />
+      <a href="https://github.com/safe6Sec">safe6Sec</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/virusdefender">
         <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
       </a>
@@ -148,13 +155,6 @@
       </a>
       <br />
       <a href="https://github.com/al0ne">al0ne</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/safe6Sec">
-        <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
-      </a>
-      <br />
-      <a href="https://github.com/safe6Sec">safe6Sec</a>
     </td>
     <td align="center">
       <a href="https://github.com/Wh0ale">
