@@ -94,18 +94,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/0nise">
-        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
-      </a>
-      <br />
-      <a href="https://github.com/0nise">r4v3zn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dm2333">
         <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
       </a>
       <br />
       <a href="https://github.com/Dm2333">Dm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0nise">
+        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
+      </a>
+      <br />
+      <a href="https://github.com/0nise">r4v3zn</a>
     </td>
     <td align="center">
       <a href="https://github.com/swdreams">
