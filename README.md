@@ -36,18 +36,18 @@
       <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gh0stkey">
-        <img src="https://avatars2.githubusercontent.com/u/24655118" width="70px;" alt="gh0stkey"/>
-      </a>
-      <br />
-      <a href="https://github.com/gh0stkey">ᴋᴇʏ</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zu1k">
         <img src="https://avatars2.githubusercontent.com/u/42370281" width="70px;" alt="zu1k"/>
       </a>
       <br />
       <a href="https://github.com/zu1k">zu1k</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gh0stkey">
+        <img src="https://avatars2.githubusercontent.com/u/24655118" width="70px;" alt="gh0stkey"/>
+      </a>
+      <br />
+      <a href="https://github.com/gh0stkey">ᴋᴇʏ</a>
     </td>
     <td align="center">
       <a href="https://github.com/firmianay">
