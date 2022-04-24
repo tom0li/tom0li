@@ -129,18 +129,18 @@
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lifa123">
-        <img src="https://avatars2.githubusercontent.com/u/16981248" width="70px;" alt="lifa123"/>
-      </a>
-      <br />
-      <a href="https://github.com/lifa123">muuk</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/safe6Sec">
         <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lifa123">
+        <img src="https://avatars2.githubusercontent.com/u/16981248" width="70px;" alt="lifa123"/>
+      </a>
+      <br />
+      <a href="https://github.com/lifa123">muuk</a>
     </td>
     <td align="center">
       <a href="https://github.com/virusdefender">
