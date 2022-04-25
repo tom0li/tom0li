@@ -108,20 +108,6 @@
       <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rc-chuah">
-        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
-      </a>
-      <br />
-      <a href="https://github.com/rc-chuah">RC Chuah</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/swdreams">
-        <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r0eXpeR">
         <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
@@ -134,6 +120,20 @@
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swdreams">
+        <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
+      </a>
+      <br />
+      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rc-chuah">
+        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
+      </a>
+      <br />
+      <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
       <a href="https://github.com/lifa123">
