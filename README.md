@@ -108,18 +108,18 @@
       <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/r0eXpeR">
-        <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
-      </a>
-      <br />
-      <a href="https://github.com/r0eXpeR">r0eXpeR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/safe6Sec">
         <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/r0eXpeR">
+        <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
+      </a>
+      <br />
+      <a href="https://github.com/r0eXpeR">r0eXpeR</a>
     </td>
     <td align="center">
       <a href="https://github.com/swdreams">
