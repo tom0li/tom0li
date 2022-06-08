@@ -101,18 +101,18 @@
       <a href="https://github.com/0nise">r4v3zn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dm2333">
-        <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dm2333">Dm</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/safe6Sec">
         <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dm2333">
+        <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
       <a href="https://github.com/rc-chuah">
