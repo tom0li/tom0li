@@ -94,18 +94,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/0nise">
-        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
-      </a>
-      <br />
-      <a href="https://github.com/0nise">r4v3zn</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/safe6Sec">
         <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0nise">
+        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
+      </a>
+      <br />
+      <a href="https://github.com/0nise">r4v3zn</a>
     </td>
     <td align="center">
       <a href="https://github.com/rc-chuah">
