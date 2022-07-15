@@ -133,7 +133,7 @@
         <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
       </a>
       <br />
-      <a href="https://github.com/swdreams">Senior software architect & engineer</a>
+      <a href="https://github.com/swdreams">Senior Software Engineer & Architect</a>
     </td>
     <td align="center">
       <a href="https://github.com/lifa123">
