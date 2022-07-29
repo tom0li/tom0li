@@ -85,20 +85,20 @@
       <a href="https://github.com/ourren">ourren</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Lz1y">
-        <img src="https://avatars2.githubusercontent.com/u/23468993" width="70px;" alt="Lz1y"/>
-      </a>
-      <br />
-      <a href="https://github.com/Lz1y">Lz1y</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/safe6Sec">
         <img src="https://avatars2.githubusercontent.com/u/26316334" width="70px;" alt="safe6Sec"/>
       </a>
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Lz1y">
+        <img src="https://avatars2.githubusercontent.com/u/23468993" width="70px;" alt="Lz1y"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lz1y">Lz1y</a>
     </td>
     <td align="center">
       <a href="https://github.com/0nise">
