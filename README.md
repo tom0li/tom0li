@@ -122,18 +122,18 @@
       <a href="https://github.com/swdreams">Senior Software Engineer & Architect</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dm2333">
-        <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dm2333">Dm</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r0eXpeR">
         <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
       <br />
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dm2333">
+        <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
       <a href="https://github.com/lifa123">
