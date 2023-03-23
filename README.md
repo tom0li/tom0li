@@ -22,13 +22,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jas502n">
-        <img src="https://avatars2.githubusercontent.com/u/16593068" width="70px;" alt="jas502n"/>
-      </a>
-      <br />
-      <a href="https://github.com/jas502n">Jas502n</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CHYbeta">
         <img src="https://avatars2.githubusercontent.com/u/18642224" width="70px;" alt="CHYbeta"/>
       </a>
@@ -91,8 +84,6 @@
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ourren">
         <img src="https://avatars2.githubusercontent.com/u/10292916" width="70px;" alt="ourren"/>
@@ -100,6 +91,8 @@
       <br />
       <a href="https://github.com/ourren">ourren</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/0nise">
         <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
@@ -162,6 +155,13 @@
       </a>
       <br />
       <a href="https://github.com/r00tSe7en">Se7en</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TenviLi">
+        <img src="https://avatars2.githubusercontent.com/u/30214981" width="70px;" alt="TenviLi"/>
+      </a>
+      <br />
+      <a href="https://github.com/TenviLi">Tenvi</a>
     </td>
   </tr>
 </table>
