@@ -24,18 +24,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CHYbeta">
-        <img src="https://avatars2.githubusercontent.com/u/18642224" width="70px;" alt="CHYbeta"/>
-      </a>
-      <br />
-      <a href="https://github.com/CHYbeta">chybeta</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zu1k">
         <img src="https://avatars2.githubusercontent.com/u/42370281" width="70px;" alt="zu1k"/>
       </a>
       <br />
       <a href="https://github.com/zu1k">zu1k</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CHYbeta">
+        <img src="https://avatars2.githubusercontent.com/u/18642224" width="70px;" alt="CHYbeta"/>
+      </a>
+      <br />
+      <a href="https://github.com/CHYbeta">chybeta</a>
     </td>
     <td align="center">
       <a href="https://github.com/gh0stkey">
