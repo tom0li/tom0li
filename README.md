@@ -149,7 +149,7 @@
         <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
       </a>
       <br />
-      <a href="https://github.com/virusdefender">LiYang</a>
+      <a href="https://github.com/virusdefender">virusdefender</a>
     </td>
     <td align="center">
       <a href="https://github.com/lifa123">
