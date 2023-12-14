@@ -131,18 +131,18 @@
       <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/r00tSe7en">
-        <img src="https://avatars2.githubusercontent.com/u/24263756" width="70px;" alt="r00tSe7en"/>
-      </a>
-      <br />
-      <a href="https://github.com/r00tSe7en">Se7en</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/al0ne">
         <img src="https://avatars2.githubusercontent.com/u/13449320" width="70px;" alt="al0ne"/>
       </a>
       <br />
       <a href="https://github.com/al0ne">al0ne</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/r00tSe7en">
+        <img src="https://avatars2.githubusercontent.com/u/24263756" width="70px;" alt="r00tSe7en"/>
+      </a>
+      <br />
+      <a href="https://github.com/r00tSe7en">Se7en</a>
     </td>
     <td align="center">
       <a href="https://github.com/virusdefender">
