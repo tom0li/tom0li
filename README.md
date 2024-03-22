@@ -124,18 +124,18 @@
       <a href="https://github.com/r0eXpeR">r0eXpeR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dm2333">
-        <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dm2333">Dm</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r00tSe7en">
         <img src="https://avatars2.githubusercontent.com/u/24263756" width="70px;" alt="r00tSe7en"/>
       </a>
       <br />
       <a href="https://github.com/r00tSe7en">Se7en</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dm2333">
+        <img src="https://avatars2.githubusercontent.com/u/25870448" width="70px;" alt="Dm2333"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
       <a href="https://github.com/al0ne">
