@@ -87,21 +87,14 @@
       <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/0nise">
-        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="0nise"/>
-      </a>
-      <br />
-      <a href="https://github.com/0nise">r4v3zn</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/swdreams">
         <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
       </a>
       <br />
       <a href="https://github.com/swdreams">Senior Software Engineer & Architect</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ourren">
         <img src="https://avatars2.githubusercontent.com/u/10292916" width="70px;" alt="ourren"/>
@@ -164,6 +157,13 @@
       </a>
       <br />
       <a href="https://github.com/lifa123">muuk</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/5l1v3r1">
+        <img src="https://avatars2.githubusercontent.com/u/34143537" width="70px;" alt="5l1v3r1"/>
+      </a>
+      <br />
+      <a href="https://github.com/5l1v3r1">5l1v3r1</a>
     </td>
   </tr>
 </table>
