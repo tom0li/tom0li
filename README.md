@@ -42,7 +42,7 @@
         <img src="https://avatars2.githubusercontent.com/u/24655118" width="70px;" alt="gh0stkey"/>
       </a>
       <br />
-      <a href="https://github.com/gh0stkey">ᴋᴇʏ</a>
+      <a href="https://github.com/gh0stkey">EvilChen</a>
     </td>
     <td align="center">
       <a href="https://github.com/firmianay">
