@@ -87,20 +87,20 @@
       <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ourren">
-        <img src="https://avatars2.githubusercontent.com/u/10292916" width="70px;" alt="ourren"/>
-      </a>
-      <br />
-      <a href="https://github.com/ourren">ourren</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/swdreams">
         <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
       </a>
       <br />
       <a href="https://github.com/swdreams">Senior Software Engineer & Architect</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ourren">
+        <img src="https://avatars2.githubusercontent.com/u/10292916" width="70px;" alt="ourren"/>
+      </a>
+      <br />
+      <a href="https://github.com/ourren">ourren</a>
     </td>
     <td align="center">
       <a href="https://github.com/Lz1y">
