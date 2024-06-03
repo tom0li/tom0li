@@ -103,13 +103,6 @@
       <a href="https://github.com/ourren">ourren</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Lz1y">
-        <img src="https://avatars2.githubusercontent.com/u/23468993" width="70px;" alt="Lz1y"/>
-      </a>
-      <br />
-      <a href="https://github.com/Lz1y">Lz1y</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r0eXpeR">
         <img src="https://avatars2.githubusercontent.com/u/46040186" width="70px;" alt="r0eXpeR"/>
       </a>
@@ -164,6 +157,13 @@
       </a>
       <br />
       <a href="https://github.com/5l1v3r1">5l1v3r1</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TenviLi">
+        <img src="https://avatars2.githubusercontent.com/u/30214981" width="70px;" alt="TenviLi"/>
+      </a>
+      <br />
+      <a href="https://github.com/TenviLi">Tenvi</a>
     </td>
   </tr>
 </table>
