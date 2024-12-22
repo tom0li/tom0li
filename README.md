@@ -79,18 +79,18 @@
       <a href="https://github.com/safe6Sec">safe6</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rc-chuah">
-        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
-      </a>
-      <br />
-      <a href="https://github.com/rc-chuah">RC Chuah</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="70px;" alt="nholuongut"/>
       </a>
       <br />
       <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rc-chuah">
+        <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
+      </a>
+      <br />
+      <a href="https://github.com/rc-chuah">RC Chuah</a>
     </td>
   </tr>
   <tr>
