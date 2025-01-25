@@ -51,18 +51,18 @@
       <a href="https://github.com/firmianay">一蓑烟雨</a>
     </td>
     <td align="center">
-      <a href="https://github.com/silvesterwali">
-        <img src="https://avatars2.githubusercontent.com/u/40487188" width="70px;" alt="silvesterwali"/>
-      </a>
-      <br />
-      <a href="https://github.com/silvesterwali">silvesterwali</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="70px;" alt="nholuongut"/>
       </a>
       <br />
       <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/silvesterwali">
+        <img src="https://avatars2.githubusercontent.com/u/40487188" width="70px;" alt="silvesterwali"/>
+      </a>
+      <br />
+      <a href="https://github.com/silvesterwali">silvesterwali</a>
     </td>
     <td align="center">
       <a href="https://github.com/zer0yu">
