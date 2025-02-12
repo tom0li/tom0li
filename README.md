@@ -113,7 +113,7 @@
         <img src="https://avatars2.githubusercontent.com/u/24284231" width="70px;" alt="moonD4rk"/>
       </a>
       <br />
-      <a href="https://github.com/moonD4rk">ᴍᴏᴏɴD4ʀᴋ</a>
+      <a href="https://github.com/moonD4rk">Roger</a>
     </td>
     <td align="center">
       <a href="https://github.com/r0eXpeR">
