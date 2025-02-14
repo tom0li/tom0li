@@ -72,18 +72,18 @@
       <a href="https://github.com/zer0yu">z3r0yu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/killvxk">
-        <img src="https://avatars2.githubusercontent.com/u/309424" width="70px;" alt="killvxk"/>
-      </a>
-      <br />
-      <a href="https://github.com/killvxk">killvxk</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars2.githubusercontent.com/u/44928288" width="70px;" alt="rc-chuah"/>
       </a>
       <br />
       <a href="https://github.com/rc-chuah">RC Chuah</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/killvxk">
+        <img src="https://avatars2.githubusercontent.com/u/309424" width="70px;" alt="killvxk"/>
+      </a>
+      <br />
+      <a href="https://github.com/killvxk">killvxk</a>
     </td>
     <td align="center">
       <a href="https://github.com/safe6Sec">
