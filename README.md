@@ -109,6 +109,13 @@
       <a href="https://github.com/ourren">ourren</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xxxxbxxxxx">
+        <img src="https://avatars2.githubusercontent.com/u/18393907" width="70px;" alt="xxxxbxxxxx"/>
+      </a>
+      <br />
+      <a href="https://github.com/xxxxbxxxxx">xxxxbxxxxx</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/moonD4rk">
         <img src="https://avatars2.githubusercontent.com/u/24284231" width="70px;" alt="moonD4rk"/>
       </a>
@@ -156,13 +163,6 @@
       </a>
       <br />
       <a href="https://github.com/Dm2333">Dm</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/virusdefender">
-        <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
-      </a>
-      <br />
-      <a href="https://github.com/virusdefender">virusdefender</a>
     </td>
   </tr>
 </table>
