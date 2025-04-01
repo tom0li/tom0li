@@ -23,13 +23,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="70px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zu1k">
         <img src="https://avatars2.githubusercontent.com/u/42370281" width="70px;" alt="zu1k"/>
       </a>
@@ -92,8 +85,6 @@
       <br />
       <a href="https://github.com/safe6Sec">safe6</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/swdreams">
         <img src="https://avatars2.githubusercontent.com/u/1147825" width="70px;" alt="swdreams"/>
@@ -101,6 +92,8 @@
       <br />
       <a href="https://github.com/swdreams">Senior Software Engineer & Architect</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ourren">
         <img src="https://avatars2.githubusercontent.com/u/10292916" width="70px;" alt="ourren"/>
@@ -163,6 +156,13 @@
       </a>
       <br />
       <a href="https://github.com/Dm2333">Dm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/virusdefender">
+        <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
+      </a>
+      <br />
+      <a href="https://github.com/virusdefender">virusdefender</a>
     </td>
   </tr>
 </table>
