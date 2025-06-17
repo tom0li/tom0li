@@ -158,11 +158,11 @@
       <a href="https://github.com/Dm2333">Dm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/virusdefender">
-        <img src="https://avatars2.githubusercontent.com/u/4939404" width="70px;" alt="virusdefender"/>
+      <a href="https://github.com/CrackerCat">
+        <img src="https://avatars2.githubusercontent.com/u/17995064" width="70px;" alt="CrackerCat"/>
       </a>
       <br />
-      <a href="https://github.com/virusdefender">virusdefender</a>
+      <a href="https://github.com/CrackerCat">CrackerCat</a>
     </td>
   </tr>
 </table>
