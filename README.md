@@ -130,18 +130,18 @@
       <a href="https://github.com/al0ne">al0ne</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/r00tSe7en">
         <img src="https://avatars2.githubusercontent.com/u/24263756" width="70px;" alt="r00tSe7en"/>
       </a>
       <br />
       <a href="https://github.com/r00tSe7en">Se7en</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="70px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
     </td>
     <td align="center">
       <a href="https://github.com/lifa123">
