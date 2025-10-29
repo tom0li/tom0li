@@ -144,18 +144,18 @@
       <a href="https://github.com/r00tSe7en">Se7en</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lifa123">
-        <img src="https://avatars2.githubusercontent.com/u/16981248" width="70px;" alt="lifa123"/>
-      </a>
-      <br />
-      <a href="https://github.com/lifa123">muuk</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CrackerCat">
         <img src="https://avatars2.githubusercontent.com/u/17995064" width="70px;" alt="CrackerCat"/>
       </a>
       <br />
       <a href="https://github.com/CrackerCat">CrackerCat</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lifa123">
+        <img src="https://avatars2.githubusercontent.com/u/16981248" width="70px;" alt="lifa123"/>
+      </a>
+      <br />
+      <a href="https://github.com/lifa123">muuk</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dm2333">
