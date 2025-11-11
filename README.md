@@ -55,7 +55,7 @@
         <img src="https://avatars2.githubusercontent.com/u/40487188" width="70px;" alt="silvesterwali"/>
       </a>
       <br />
-      <a href="https://github.com/silvesterwali">silvesterwali</a>
+      <a href="https://github.com/silvesterwali">Silvester Wali</a>
     </td>
     <td align="center">
       <a href="https://github.com/zer0yu">
